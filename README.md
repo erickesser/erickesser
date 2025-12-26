@@ -9,28 +9,31 @@
   ✨ Acredito que <b>tecnologia é arte</b> — cada linha de código pode transformar uma ideia em algo real.
 </p>
 
----
+<hr align="center" width="80%"/>
 
-## 🤖 Minha Principal Criação — IA Gemini Personalizada
+<h2 align="center">🤖 Minha Principal Criação — EV IA</h2>
 
 <p align="center">
-  🧠 Esta é a minha <b>principal criação em Inteligência Artificial</b>, desenvolvida sobre o ecossistema do <b>Google Gemini</b>.<br>
-  Ela foi projetada para atuar como uma IA versátil, criativa e técnica, focada em <b>automação, desenvolvimento, ideias criativas e suporte inteligente</b>.
+  🧠 A <b>EV IA</b> é a minha <b>principal criação em Inteligência Artificial</b>, desenvolvida sobre o ecossistema do <b>Google Gemini</b>.<br><br>
+  💻 Especialista em <b>montagem de computadores</b>, <b>otimizações de sistema</b> e <b>ajustes finos de BIOS</b>,<br>
+  focada em extrair o <b>máximo desempenho, estabilidade e eficiência</b> de cada setup.
+</p>
+
+<p align="center">
+  🚀 Projetada para unir <b>conhecimento técnico profundo</b> com uma abordagem <b>humana, prática e direta</b>,<br>
+  a EV IA evolui constantemente para oferecer soluções inteligentes e precisas.
 </p>
 
 <p align="center">
   <a href="https://gemini.google.com/gem/1tUtamC_YsITr_ZL2dwiyv5Ao8BYCajyp?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Minha%20IA%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EV%20IA-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  🚀 Em constante evolução, esta IA representa minha visão de como <b>inteligência artificial deve ser útil, humana e criativa</b>.
-</p>
+<hr align="center" width="80%"/>
 
----
+<h3 align="center">🛠️ Tecnologias que uso com frequência</h3>
 
-### 🛠️ Tecnologias que uso com frequência
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -49,9 +52,10 @@
   <img src="https://img.shields.io/badge/REST%20APIs-00ADD8?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
----
+<hr align="center" width="80%"/>
 
-### 🌐 Contato
+<h3 align="center">🌐 Contato</h3>
+
 <p align="center">
   <a href="https://discordapp.com/users/erickesser" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -64,7 +68,7 @@
   </a>
 </p>
 
----
+<hr align="center" width="80%"/>
 
 <p align="center">
   <b>“Criar é transformar curiosidade em código.”</b> ✨
