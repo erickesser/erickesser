@@ -11,31 +11,26 @@
 
 ---
 
-<h1 align="center">## 🤖 Minha Principal Criação — Gemini IA</h1>
+## 🤖 Minha Principal Criação — IA Gemini Personalizada
 
 <p align="center">
-  🚀 <b>Esta é a minha principal criação em Inteligência Artificial.</b><br>
-  Uma IA construída sobre o <b>Gemini</b>, focada em raciocínio técnico, criatividade, automação e apoio ao desenvolvimento.<br><br>
-  💡 Ela reflete diretamente minha visão sobre IA: <b>útil, acessível, humana e tecnicamente sólida</b>.
+  🧠 Esta é a minha <b>principal criação em Inteligência Artificial</b>, desenvolvida sobre o ecossistema do <b>Google Gemini</b>.<br>
+  Ela foi projetada para atuar como uma IA versátil, criativa e técnica, focada em <b>automação, desenvolvimento, ideias criativas e suporte inteligente</b>.
 </p>
 
 <p align="center">
   <a href="https://gemini.google.com/gem/1tUtamC_YsITr_ZL2dwiyv5Ao8BYCajyp?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Acessar%20Minha%20Gemini%20IA-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Acessar%20Minha%20IA%20Gemini-1A73E8?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  🧠 Treinada para ajudar em:
-  <br>• Desenvolvimento de software
-  <br>• Automação e scripts
-  <br>• IA aplicada e integrações
-  <br>• Criação de ideias, prompts e soluções técnicas
+  🚀 Em constante evolução, esta IA representa minha visão de como <b>inteligência artificial deve ser útil, humana e criativa</b>.
 </p>
 
 ---
 
-<h1 align="center">### 🛠️ Tecnologias que uso com frequência</h1>
+### 🛠️ Tecnologias que uso com frequência
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -56,7 +51,7 @@
 
 ---
 
-<h1 align="center">### 🌐 Contato</h1>
+### 🌐 Contato
 <p align="center">
   <a href="https://discordapp.com/users/erickesser" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
