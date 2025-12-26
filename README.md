@@ -11,7 +11,7 @@
 
 ---
 
-<h1 align="center">## 🤖 Minha Principal Criação — Gemini IA
+<h1 align="center">## 🤖 Minha Principal Criação — Gemini IA</h1>
 
 <p align="center">
   🚀 <b>Esta é a minha principal criação em Inteligência Artificial.</b><br>
@@ -35,7 +35,7 @@
 
 ---
 
-<h1 align="center">### 🛠️ Tecnologias que uso com frequência
+<h1 align="center">### 🛠️ Tecnologias que uso com frequência</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -56,7 +56,7 @@
 
 ---
 
-<h1 align="center">### 🌐 Contato
+<h1 align="center">### 🌐 Contato</h1>
 <p align="center">
   <a href="https://discordapp.com/users/erickesser" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
