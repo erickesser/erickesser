@@ -9,7 +9,7 @@
   ✨ Acredito que <b>tecnologia é arte</b> — cada linha de código pode transformar uma ideia em algo real.
 </p>
 
-<hr align="center" width="100%"/>
+<hr align="center" >//width="100%"/>
 
 <h2 align="center">🤖 Minha Principal Criação — EV IA</h2>
 
