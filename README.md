@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<hr align="center" width="80%"/>
+<hr align="center" width="100%"/>
 
 <h3 align="center">🛠️ Tecnologias que uso com frequência</h3>
 
