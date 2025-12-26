@@ -9,7 +9,7 @@
   ✨ Acredito que <b>tecnologia é arte</b> — cada linha de código pode transformar uma ideia em algo real.
 </p>
 
-<hr align="center" >//width="100%"/>
+<hr align="center" width="100%"/>
 
 <h2 align="center">🤖 Minha Principal Criação — EV IA</h2>
 
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/REST%20APIs-00ADD8?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-<hr align="center" width="80%"/>
+<hr align="center" width="100%"/>
 
 <h3 align="center">🌐 Contato</h3>
 
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-<hr align="center" width="80%"/>
+<hr align="center" width="100%"/>
 
 <p align="center">
   <b>“Criar é transformar curiosidade em código.”</b> ✨
