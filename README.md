@@ -11,6 +11,30 @@
 
 ---
 
+## 🤖 Minha Principal Criação — Gemini IA
+
+<p align="center">
+  🚀 <b>Esta é a minha principal criação em Inteligência Artificial.</b><br>
+  Uma IA construída sobre o <b>Gemini</b>, focada em raciocínio técnico, criatividade, automação e apoio ao desenvolvimento.<br><br>
+  💡 Ela reflete diretamente minha visão sobre IA: <b>útil, acessível, humana e tecnicamente sólida</b>.
+</p>
+
+<p align="center">
+  <a href="https://gemini.google.com/gem/1tUtamC_YsITr_ZL2dwiyv5Ao8BYCajyp?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Minha%20Gemini%20IA-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  🧠 Treinada para ajudar em:
+  <br>• Desenvolvimento de software
+  <br>• Automação e scripts
+  <br>• IA aplicada e integrações
+  <br>• Criação de ideias, prompts e soluções técnicas
+</p>
+
+---
+
 ### 🛠️ Tecnologias que uso com frequência
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
